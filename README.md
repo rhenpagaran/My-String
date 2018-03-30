@@ -1,4 +1,5 @@
 # Counting words and sentences
+
 my_sentence= input("Enter sentence:")
 char=0
 word=1
